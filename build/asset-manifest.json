@@ -1,0 +1,17 @@
+{
+  "main.js": "./static/js/main.ef2c7e3b.chunk.js",
+  "main.js.map": "./static/js/main.ef2c7e3b.chunk.js.map",
+  "static/css/1.2b4b8acd.chunk.css": "./static/css/1.2b4b8acd.chunk.css",
+  "static/js/1.886fc5ab.chunk.js": "./static/js/1.886fc5ab.chunk.js",
+  "static/js/1.886fc5ab.chunk.js.map": "./static/js/1.886fc5ab.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.4a686d48.js",
+  "runtime~main.js.map": "./static/js/runtime~main.4a686d48.js.map",
+  "static/media/bootstrap.min.css": "./static/media/glyphicons-halflings-regular.89889688.svg",
+  "static/media/welcome-inc.png": "./static/media/welcome-inc.76f2c161.png",
+  "static/media/sys-rank.png": "./static/media/sys-rank.674f794b.png",
+  "static/media/result-inc.png": "./static/media/result-inc.affe3666.png",
+  "static/css/1.2b4b8acd.chunk.css.map": "./static/css/1.2b4b8acd.chunk.css.map",
+  "index.html": "./index.html",
+  "precache-manifest.6e569485f82e692f3c015606315cafd4.js": "./precache-manifest.6e569485f82e692f3c015606315cafd4.js",
+  "service-worker.js": "./service-worker.js"
+}
