@@ -1246,11 +1246,11 @@ function updateGlobalBufferAndViews(buf) {
 }
 
 var STATIC_BASE = 1024,
-    STACK_BASE = 5350112,
+    STACK_BASE = 5350144,
     STACKTOP = STACK_BASE,
-    STACK_MAX = 107232,
-    DYNAMIC_BASE = 5350112,
-    DYNAMICTOP_PTR = 107072;
+    STACK_MAX = 107264,
+    DYNAMIC_BASE = 5350144,
+    DYNAMICTOP_PTR = 107104;
 
 assert(STACK_BASE % 16 === 0, 'stack must start aligned');
 assert(DYNAMIC_BASE % 16 === 0, 'heap must start aligned');
@@ -1767,7 +1767,7 @@ var ASM_CONSTS = {
 
 
 
-// STATICTOP = STATIC_BASE + 106208;
+// STATICTOP = STATIC_BASE + 106240;
 /* global initializers */  __ATINIT__.push({ func: function() { ___wasm_call_ctors() } });
 
 
@@ -6137,7 +6137,7 @@ var ASM_CONSTS = {
     }
 
   function _emscripten_get_sbrk_ptr() {
-      return 107072;
+      return 107104;
     }
 
   
@@ -6330,10 +6330,10 @@ var ASM_CONSTS = {
     }
 
   
-  var ___tm_current=107088;
+  var ___tm_current=107120;
   
   
-  var ___tm_timezone=(stringToUTF8("GMT", 107136, 4), 107136);
+  var ___tm_timezone=(stringToUTF8("GMT", 107168, 4), 107168);
   
   function _tzset() {
       // TODO: Use (malleable) environment variables instead of system settings.

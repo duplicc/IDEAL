@@ -1,17 +1,17 @@
 {
-  "main.js": "./static/js/main.e6401d85.chunk.js",
-  "main.js.map": "./static/js/main.e6401d85.chunk.js.map",
+  "main.js": "./static/js/main.1a58831c.chunk.js",
+  "main.js.map": "./static/js/main.1a58831c.chunk.js.map",
   "static/css/1.c7146e87.chunk.css": "./static/css/1.c7146e87.chunk.css",
   "static/js/1.75cb4301.chunk.js": "./static/js/1.75cb4301.chunk.js",
   "static/js/1.75cb4301.chunk.js.map": "./static/js/1.75cb4301.chunk.js.map",
   "runtime~main.js": "./static/js/runtime~main.4a686d48.js",
   "runtime~main.js.map": "./static/js/runtime~main.4a686d48.js.map",
   "static/media/bootstrap.min.css": "./static/media/glyphicons-halflings-regular.89889688.svg",
-  "static/media/welcome-inc.png": "./static/media/welcome-inc.76f2c161.png",
-  "static/media/sys-rank.png": "./static/media/sys-rank.674f794b.png",
-  "static/media/result-inc.png": "./static/media/result-inc.affe3666.png",
+  "static/media/welcome-inc.png": "./static/media/welcome-inc.e3868d0b.png",
+  "static/media/sorting-inc.png": "./static/media/sorting-inc.2a0d2ab7.png",
+  "static/media/result-inc.png": "./static/media/result-inc.b60e6a6e.png",
   "static/css/1.c7146e87.chunk.css.map": "./static/css/1.c7146e87.chunk.css.map",
   "index.html": "./index.html",
-  "precache-manifest.dcc4a7cb042e071eefff2751d6ddbde1.js": "./precache-manifest.dcc4a7cb042e071eefff2751d6ddbde1.js",
+  "precache-manifest.a1694a69667bd54d68cd2085c63aa80d.js": "./precache-manifest.a1694a69667bd54d68cd2085c63aa80d.js",
   "service-worker.js": "./service-worker.js"
 }
